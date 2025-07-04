@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm [hashiiiii](https://hashiiiii.com/) 🐶
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiiiii&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashiiiii&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiiiii&theme=tokyonight)
 <!--
 **hashiiiii/hashiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
