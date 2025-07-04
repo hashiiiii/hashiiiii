@@ -1,4 +1,4 @@
-## Hi there, I'm [hashiiiii](https://hashiiiii.com/) 🐶
+## Hi there, I'm [hashiiiii](https://hashiiiii.com/resume) 🐶
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiiiii&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashiiiii&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiiiii&theme=tokyonight)
