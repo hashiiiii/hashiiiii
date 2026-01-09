@@ -1,18 +1,11 @@
-## Hi there, I'm [hashiiiii](https://hashiiiii.com/resume) 🐶
+Hi there, I'm [hashiiiii](https://hashiiiii.com/resume) 🐶
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiiiii&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashiiiii&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiiiii&theme=tokyonight)
-<!--
-**hashiiiii/hashiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Client Side Engineer
+  - Unity + C#
+  - React Native
+  - C++ (SDK)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Server Side Engineer
+  - Ruby on Rails
+  - Node.js
+  - Go
